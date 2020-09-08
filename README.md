@@ -5,6 +5,7 @@ A new Flutter application.
 ## Getting Started
 
 Video Demo:
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/KnjCPJ3cdqo/0.jpg)](https://www.youtube.com/watch?v=KnjCPJ3cdqo)
 
 This project is a starting point for a Flutter application.
